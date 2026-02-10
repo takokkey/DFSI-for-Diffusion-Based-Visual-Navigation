@@ -14,6 +14,8 @@ DFSI includes:
   <img src="pip_esdf.png" width="720" alt="System overview of DFSI">
 </p>
 
+Full video (mp4): [Indoor.mp4](assets/Indoor.mp4)
+
 ## 1) Deployment (Docker)
 
 ### 1.1 Clone
