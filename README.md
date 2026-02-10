@@ -6,10 +6,12 @@ DFSI includes:
 - **R-DFI (TSDF → ESDF mapping + refresh manager)**: builds a robot-centric local ESDF from planar LiDAR scans and regulates updates via a reliability FSM (ARM-FSM) to handle motion staleness and scan–map mismatch.
 - **DSG (Dual-Stage Safety Gate)**: (i) reranks diffusion-sampled trajectory candidates using ESDF clearance; (ii) applies an action-level safety supervisor that may override commands when safety margins are violated.
 
----
 <p align="center">
   <img src="pip_esdf.png" width="720" alt="System overview of DFSI">
 </p>
+<p align="center"><em>System overview of DFSI.</em></p>
+---
+
 ## Demo Videos
 
 ### Indoor experiment
