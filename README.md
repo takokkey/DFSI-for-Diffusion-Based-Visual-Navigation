@@ -11,7 +11,7 @@ DFSI includes:
 
 ### Indoor experiment
 <p align="center">
-  <img src="DFSI-for-Diffusion-Based-Visual-Navigation/pip_esdf.png" width="720" alt="Indoor experiment preview">
+  <img src="pip_esdf.png" width="720" alt="System overview of DFSI">
 </p>
 
 ## 1) Deployment (Docker)
