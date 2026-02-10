@@ -9,7 +9,7 @@ DFSI includes:
 <p align="center">
   <img src="pip_esdf.png" width="720" alt="System overview of DFSI">
 </p>
-<p align="center"><em>System overview of DFSI.</em></p>
+<p align="center"><b>System overview of DFSI.</b></p>
 ---
 
 ## Demo Videos
