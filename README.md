@@ -8,13 +8,13 @@ DFSI includes:
 
 ---
 <p align="center">
-  <img src="pip_esdf.png" width="360" alt="System overview of DFSI">
+  <img src="pip_esdf.png" width="720" alt="System overview of DFSI">
 </p>
 ## Demo Videos
 
 ### Indoor experiment
 <p align="center">
-  <img src="Indoor.gif" width="720" alt="Indoor experiment (GIF)">
+  <img src="Indoor.gif" width="360" alt="Indoor experiment (GIF)">
 </p>
 
 Full video (mp4): [Indoor.mp4](Indoor.mp4)
