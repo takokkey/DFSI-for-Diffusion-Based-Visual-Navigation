@@ -7,11 +7,14 @@ DFSI includes:
 - **DSG (Dual-Stage Safety Gate)**: (i) reranks diffusion-sampled trajectory candidates using ESDF clearance; (ii) applies an action-level safety supervisor that may override commands when safety margins are violated.
 
 ---
+<p align="center">
+  <img src="pip_esdf.png" width="720" alt="System overview of DFSI">
+</p>
 ## Demo Videos
 
 ### Indoor experiment
 <p align="center">
-  <img src="pip_esdf.png" width="720" alt="System overview of DFSI">
+  <img src="Indoor_preview.gif" width="720" alt="Indoor experiment preview">
 </p>
 
 ## 1) Deployment (Docker)
