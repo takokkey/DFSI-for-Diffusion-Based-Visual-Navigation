@@ -14,8 +14,10 @@ DFSI includes:
 
 ### Indoor experiment
 <p align="center">
-  <img src="Indoor_preview.gif" width="720" alt="Indoor experiment preview">
+  <img src="Indoor.gif" width="720" alt="Indoor experiment (GIF)">
 </p>
+
+Full video (mp4): [Indoor.mp4](Indoor.mp4)
 
 ## 1) Deployment (Docker)
 
