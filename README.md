@@ -1,5 +1,15 @@
 # DFSI: Diffusion-based Visual Navigation with LiDAR Execution-Time Safety (ROS2)
 
+## Publication
+
+**DFSI: A LiDAR Distance-Field Safety Plug-in with Reliability-Aware Refresh for Diffusion-Based Visual Navigation**  
+Shimin Yu, Shiqi Sun, Yantao Lu, Junjie Zuo, and Chenglie Du.  
+*2026 IEEE International Conference on Image Processing (ICIP 2026).*  
+
+- **IEEE Xplore:** https://ieeexplore.ieee.org/document/11630331
+- **DOI:** https://doi.org/10.1109/ICIP61757.2026.11630331
+
+
 This repository provides a ROS2 deployment of a **frozen NoMaD-style diffusion navigator** with **DFSI**, a plug-and-play **execution-time safety** layer that injects **LiDAR-derived distance-to-obstacle constraints** **without retraining** or modifying the backbone policy.
 
 DFSI includes:
